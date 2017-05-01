@@ -1,0 +1,32 @@
+
+body {
+    font:normal 18px/1.6em fantasy;
+	color:#2a3845;
+	margin:0pt auto;
+	background:#FFFFFF;
+	/*-webkit-background-size: cover ;
+    background-size: cover ;
+    background-attachment: fixed;*/
+	text-align:center;
+}
+
+#list {
+	margin:0 auto;
+	width:400px;
+	border-color:#0000FF;
+	border-style:solid;
+}
+
+#title {
+	font:normal 40px monospace;
+	font-weight:bold;
+	color:#fa7393;
+	text-align:center;
+}
+
+#main-image {
+	text-align:center;
+}
+
+
+
